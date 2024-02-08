@@ -4,7 +4,7 @@ $(document).ready(function() {
 	});
 
 	$("#p1").click(function(){
-		$("disappear").toggle();
+		$(".disappear").toggle();
 		});
 
 	$("#p2").mouseenter(function(){

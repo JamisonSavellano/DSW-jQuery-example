@@ -8,7 +8,7 @@ $(document).ready(function() {
 		});
 
 	$("#p2").mouseenter(function(){
-		alert("There is a second paragraph here, press paragraph 1 to see it");
+		alert("There is a second paragraph here, press paragraph 1 to unsee it");
 		});
 	
 	$("h1").click(function() {
